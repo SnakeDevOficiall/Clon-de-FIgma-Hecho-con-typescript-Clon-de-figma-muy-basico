@@ -109,8 +109,7 @@ Asegúrate de tener instalado:
 
 1. **Clona el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/figma-clone.git
-cd figma-clone
+https://github.com/SnakeDevOficiall/Clon-de-FIgma-Hecho-con-typescript-Clon-de-figma-muy-basico.git
 ```
 
 2. **Instala las dependencias**
